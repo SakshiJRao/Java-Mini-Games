@@ -1,6 +1,4 @@
-============================================================
-     🎮 Java Mini-Games Collection – Console Based
-============================================================
+🎮 Java Mini-Games Collection – Console Based
 
 This project contains a set of fun and interactive console-based games 
 written in Java. Designed as part of a learning-focused internship, each 
